@@ -1,0 +1,41 @@
+{
+  "productData": [
+    {
+      "src": "\\assets\\img\\upload\\Work2.jpg",
+      "name": "bottle",
+      "price": "$700"
+    },
+    {
+      "src": "\\assets\\img\\upload\\Work1.jpg",
+      "name": "nothing",
+      "price": "100"
+    }
+  ],
+  "skillsData": [
+    {
+      "number": "4",
+      "text": "Возраст начала занятий на скрипке"
+    },
+    {
+      "number": "5",
+      "text": "Концертов отыграл"
+    },
+    {
+      "number": "5",
+      "text": "Максимальное число городов в туре"
+    },
+    {
+      "number": "5",
+      "text": "Лет на сцене в качестве скрипача"
+    }
+  ],
+  "messageData": {
+    "name": "tata",
+    "email": "test@test.ru",
+    "message": "trata"
+  },
+  "authData": {
+    "email": "test@test.ru",
+    "password": "123"
+  }
+}

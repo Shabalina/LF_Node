@@ -1,0 +1,47 @@
+{
+  "productData": [
+    {
+      "src": "\\assets\\img\\upload\\Work2.jpg",
+      "name": "bottle",
+      "price": "$700"
+    },
+    {
+      "src": "\\assets\\img\\upload\\Work1.jpg",
+      "name": "nothing",
+      "price": "100"
+    }, 
+    {
+      "src": "assets\\img\\upload\\Work8.jpg",
+      "name": "light",
+      "price": "200"
+    }
+  ],
+  "skillsData": [
+    {
+      "number": "3",
+      "text": "Возраст начала занятий на скрипке"
+    },
+    {
+      "number": "5",
+      "text": "Концертов отыграл"
+    },
+    {
+      "number": "21",
+      "text": "Максимальное число городов в туре"
+    },
+    {
+      "number": "6",
+      "text": "Лет на сцене в качестве скрипача"
+    }
+  ],
+  "messageData": {
+    "name": "Anastasia",
+    "email": "test@test.ru",
+    "message": "rete"
+  },
+  "user": {
+    "email": "test@test.ru",
+    "hash": "9f5ef0038f69420a1b65961048c9653be12d9da22b14a96f1ca65433e970c72c3b27c6fa1b3f94a789da0205fd5da450859c7877dcd1b359e1f82e09c9711307036477b6d8b54e1dd9444cf22ffce00a6e7ec61cac58941aed5368a110c385d0e1eba9aca1bfbacfd00c90318dfb1a831bd0c4b42b4f466193d9d7bc83b42a2b1e58245ac18f2853ed8fc048afb47c04504e45853ff859337d6279ca9d27e7fb9fc8c79f90d31ef73a06236f13094551edf64b40eb06463e8cc22c1b078cc88e9451dd1469a6170bbceb4b99ccc956a4ee50ff3d4af629f2dd653e37ac51e1c90a48d09e5791d2631fc4abac1850bf2af0259bb3498d98a18ab3468dc343b2fb7429ff992b78901dba2ebf474ad1ef81176591e94d3cd6f07a4539bb14a20131b5f414b24a33c72c3bf46e8d2c935b2e67807ad2ce7f612a29dcbefbd0c6e035910b18c857ae505d6b596f21d7b7fbaff5b885e72ba3253cc34bafd33eb3117ddbe9e200f53bd5c2e51bd19d3467d7d77658e15c27f421e953f05917bc08d12db67a161fdc3c69d52977f3cd2975cb6cd4653d38ce00eb2d264ee1b046de08a0e3832e0433efc23e296fc386780f0e873341ea284052dea73cb7388f1de8e2a334fe68f276d527388c6709c2a7cf15a11a8bfb1f91392fa2239962b39217fa3200c9cf969f7fb10b1539ce112221ac00cb4ed6f444e54cd4ee9febd5de652180",
+    "salt": "dfb14d64169bbe75954e4a5d9d27f31c"
+  }
+}

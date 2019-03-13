@@ -1,0 +1,26 @@
+{
+    "session": {
+      "key": "koa:sess",
+      "maxAge": 86400000,
+      "overwrite": true,
+      "httpOnly": true,
+      "signed": false,
+      "rolling": false,
+      "renew": false
+    },
+    "upload": "./public/assets/img",
+
+    "mail": {
+        "subject": "Сообщение с сайта",
+        "smtp": {
+          "host": "smtp.gmail.com",
+          "port": 465,
+          "secure": true,
+          "auth": {
+            "user": "shabalina.test@gmail.com",
+            "pass": "test123test"
+          }
+        }
+      }
+  }
+  
